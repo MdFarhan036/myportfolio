@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.fd71d2df.css",
+    "main.js": "/myportfolio/static/js/main.0bbe2157.js",
+    "static/media/agri1.png": "/myportfolio/static/media/agri1.d5c5c4ef0b549f559032.png",
+    "static/media/image1.png": "/myportfolio/static/media/image1.e1c0060de4aacca4a1dc.png",
+    "static/media/image33.png": "/myportfolio/static/media/image33.7b39193ce99b8531a96c.png",
+    "static/media/IMG_20230721_203037.jpg": "/myportfolio/static/media/IMG_20230721_203037.d7572154e14f16736507.jpg",
+    "static/media/image222.png": "/myportfolio/static/media/image222.c67bf6db4e39438cfc5c.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/myportfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/banner-img-nsg.jpg": "/myportfolio/static/media/banner-img-nsg.25e9d9d3e9a8129c39d6.jpg",
+    "static/media/fontawesome-webfont.eot": "/myportfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/myportfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/myportfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/myportfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/css.png": "/myportfolio/static/media/css.8a341b84b45c52d31b83.png",
+    "static/media/html-5.png": "/myportfolio/static/media/html-5.3df01524afeaba85d1c9.png",
+    "static/media/js.png": "/myportfolio/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/node.svg": "/myportfolio/static/media/node.d14c3f29aad75533186335e20adea509.svg",
+    "static/media/mongodb_thumbnail.webp": "/myportfolio/static/media/mongodb_thumbnail.c38cd70da656f9a39820.webp",
+    "static/media/react.svg": "/myportfolio/static/media/react.f4d21d794054af8d20624a082749ef90.svg",
+    "index.html": "/myportfolio/index.html",
+    "static/media/bootstrap.svg": "/myportfolio/static/media/bootstrap.51e87e6afbeff58100ede34247defe49.svg",
+    "main.fd71d2df.css.map": "/myportfolio/static/css/main.fd71d2df.css.map",
+    "main.0bbe2157.js.map": "/myportfolio/static/js/main.0bbe2157.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd71d2df.css",
+    "static/js/main.0bbe2157.js"
+  ]
+}
